@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi my name Dongqin 
+My Gmail
+kirebyluodongqin@gmail.com
 
 <!--
 **839993shok/839993shok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
