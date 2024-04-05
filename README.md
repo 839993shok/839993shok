@@ -1,5 +1,4 @@
-/### Hi my name Dongqin
-My Gmail:
+###
 kirebyluodongqin@gmail.com
 
 <!--
